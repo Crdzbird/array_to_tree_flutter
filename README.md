@@ -3,6 +3,7 @@ Create any Multi Level Tree on your flutter app based on a Plain Array.
 
 ### To use this please add in your **pubspec.yaml**
 
+
 ```yaml
 dependencies:
   array_to_tree: ^0.1.0
