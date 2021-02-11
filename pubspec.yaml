@@ -1,8 +1,7 @@
 name: array_to_tree
 description: Convert a plain array into a Hierarchy List Ordered
 version: 0.1.0
-author:
-homepage:
+homepage: https://github.com/Crdzbird/array_to_tree_flutter
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
