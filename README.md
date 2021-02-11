@@ -11,6 +11,7 @@ dependencies:
 
 To generate the hierarchy list, just call this.
 
+
 ```dart
 var list = [
     {'id': 1, 'title': 'home', 'parent': null},
