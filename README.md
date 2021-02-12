@@ -34,6 +34,11 @@ DONE:
 
 - To the creator of [ARRAY_TO_TREE](https://github.com/alferov/array-to-tree)
 
+## Maintainers
+
+- [Luis Bird](https://github.com/Crdzbird)
+- [Danilo Meneses](https://github.com/danilomx)
+
 ### Contributing
 
 All contributions are welcome!
